@@ -17,9 +17,8 @@
 [![Crates.io](https://img.shields.io/crates/v/git_function_history.svg)](https://crates.io/crates/git_function_history)
 [![Docs](https://docs.rs/git_function_history/badge.svg)](https://docs.rs/git_function_history)
 [![dependency status](https://deps.rs/repo/github/mendelsshop/git_function_history/status.svg)](https://deps.rs/repo/github/mendelsshop/git_function_history)
-[![Build status](https://github.com/mendelsshop/git_function_history/workflows/CI/badge.svg)](https://github.com/mendelsshop/git_function_history/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mendelsshop/git_function_history/blob/master/LICENSE)
-[![LOC](https://tokei.rs/b1/github/mendelsshop/git_function_history)(https://github.com/mendelsshop/git_function_history)]
+[![LOC](https://tokei.rs/b1/github/mendelsshop/git_function_history)](https://github.com/mendelsshop/git_function_history)
 [![Downloads](https://img.shields.io/crates/d/git_function_history.svg)](https://crates.io/crates/git_function_history)
 </div>
 
