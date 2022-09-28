@@ -19,7 +19,8 @@
 [![dependency status](https://deps.rs/repo/github/mendelsshop/git_function_history/status.svg)](https://deps.rs/repo/github/mendelsshop/git_function_history)
 [![Build status](https://github.com/mendelsshop/git_function_history/workflows/CI/badge.svg)](https://github.com/mendelsshop/git_function_history/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mendelsshop/git_function_history/blob/master/LICENSE)
-[![loc](https://tokei.rs/b1/github/mendelsshop/git_function_history)]()
+[![LOC](https://tokei.rs/b1/github/mendelsshop/git_function_history)](https://github.com/mendelsshop/git_function_history)
+[![Downloads](https://img.shields.io/crates/d/git_function_history.svg)](https://crates.io/crates/git_function_history)
 </div>
 
 ## TEMPLATE INSTRUCTIONS
@@ -27,5 +28,4 @@
 1. Create a new repository under mendelsshop using this template.
 1. **Title:** Change the first line of this README to the name of your project, and replace the sunflower with an emoji that represents your project. 🚨 Your emoji selection is critical.
 1. **Badges:** In the badges section above, change the repo name in each URL. If you are creating something other than a Rust crate, remove the crates.io and docs badges (and feel free to add more appropriate ones for your language).
-1. **CI:** In `./github/workflows/` rename `rust-ci.yml` (or the appropriate config for your language) to `ci.yml`. And go over it and adapt it to work for your project
 1. **Cleanup:** Remove this section of the README and any unused files (such as configs for other languages) from the repo.
